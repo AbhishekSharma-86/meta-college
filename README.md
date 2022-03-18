@@ -1,4 +1,4 @@
-### Meta-College 
+# Meta-College 
 This is a Integrated information platform for information about Indian Universities.
 
 # In order to run this application download it on your local system and you also need to have Node installed on your system to run, npm commands
