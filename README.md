@@ -5,7 +5,7 @@ This is a Integrated information platform for information about Indian Universit
 ## Just installing this project on local system make sure to use command below
 
 ### `npm install`
-This is install all the packages require
+This will install all the packages require
 
 ## Available Scripts
 
